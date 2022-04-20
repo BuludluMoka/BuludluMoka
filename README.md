@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BuludluMoka
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#,Python
 - 💞️ I’m looking to collaborate on Company
 - 📫 How to reach me Buludlumoka@gmail.com
 
