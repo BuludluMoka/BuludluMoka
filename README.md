@@ -26,7 +26,7 @@ Other        13 mins         ▒░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 Buy Me A Coffee
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 🚧 my todoist stats:
 
 🏆 7,995 Karma Points
@@ -34,6 +34,6 @@ Buy Me A Coffee
 ✅ Completed 673 tasks so far
 ⏳ Longest streak is 10 days
 
-📈 my github stats
+Github stats
 
 abhisheknaiidu
